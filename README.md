@@ -7,9 +7,9 @@ Welcome to my GitHub! I'm a passionate full stack developer who loves turning id
 ## 🚀 About Me
 
 - 👨‍💻 I'm a frontend developer focused on **clean UI**, **smooth UX**, and **modern web technologies**.
-- 🌱 Currently learning: `JavaScript ES6+`, `Vue.js`, `Angular`, `React`, `Next.js` `REST APIs`, `php`, `Laravel`,  and `State Management`.
+- 🌱 Currently learning: `Next.js`, `Python`,   and `State Management`.
 - 💡 Always exploring new tech and building **real-world projects** to sharpen my skills.
-- 🛠️ Tech stack includes: `HTML`, `CSS`, `Bootstrap`, `Tailwind CSS`, `JavaScript`, `Vue.js`, `Git`, and `GitHub`.
+- 🛠️ Tech stack includes: `HTML`, `CSS`, `Bootstrap`, `Tailwind CSS`, `JavaScript`, `Vue.js`, `Git`, `JavaScript ES6+`, `Vue.js`, `Angular`, `React`, `php`, `Laravel`, `REST APIs`, and `GitHub`.
 - 🎯 Goals: To become a professional frontend engineer and contribute to open-source and freelance platforms like Upwork.
 
 ---
